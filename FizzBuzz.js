@@ -22,9 +22,9 @@ function fizzBuzz(num) {
 
 let runFizzBuzz = _ => {
     console.log(`
-    #####################################
-    ## Array of Non-repeating In Array ##
-    #####################################
+    ##############
+    ## Fizzbuzz ##
+    ##############
     --- TEST #1 - ${Array.isArray(fizzBuzz(10)) ? 'PASSED' : 'FAILED'} ---
     Function fizzBuzz(num) should return an array.
     Your result was a/n => ${typeof fizzBuzz(10)}.

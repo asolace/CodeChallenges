@@ -114,9 +114,9 @@ function CorrectPath(str) {
      
 let runCorrectPath = _ => {
     console.log(`
-    #####################################
+    ##################
     ## Correct Path ##
-    #####################################
+    ##################
     --- TEST #1 - ${typeof CorrectPath("r?d?drdd") === "string" ? 'PASSED' : 'FAILED'} ---
     Function CorrectPath(strPath) should return a string.
     Your result was a/n => ${typeof CorrectPath("r?d?drdd")}.

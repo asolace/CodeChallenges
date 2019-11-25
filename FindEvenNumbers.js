@@ -18,9 +18,9 @@ function findEvenNumber(l, r) {
   
   let runFindEvenNumber = _ => {
     console.log(`
-    #####################################
-    ## Array of Non-repeating In Array ##
-    #####################################
+    #######################
+    ## Find Even Numbers ##
+    #######################
     --- TEST #1 - ${Array.isArray(findEvenNumber(1,10)) ? 'PASSED' : 'FAILED'} ---
     Function findEvenNumber(arr) should return an array.
     Your result was a/n => ${typeof findEvenNumber(1,10)}.

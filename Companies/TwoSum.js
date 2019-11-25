@@ -68,9 +68,9 @@ function TwoSum2(arr) {
 }
 
 console.log(`
-    #####################################
-    ## Array of Non-repeating In Array ##
-    #####################################
+    #############
+    ## Two Sum ##
+    #############
 `)
 
 let runTwoSum1 = _ => {
