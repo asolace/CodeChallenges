@@ -1,6 +1,7 @@
 const performance = require( "../helper/performance")
 
 /*
+From CoderByte
     Have the function CorrectPath(str) read the str parameter being passed, which will represent the movements made in a 
     5x5 grid of cells starting from the top left position. 
 
